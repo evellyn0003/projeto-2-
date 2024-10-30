@@ -4,3 +4,7 @@ h1 {
 body {
     background-color: rgb(31, 119, 9);
 }
+header {
+    border: solid 2px white;
+
+}
