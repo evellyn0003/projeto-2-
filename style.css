@@ -6,7 +6,7 @@ body {
     margin: 20px;
 }
 header {
-    border: solid 2px rgba(7, 90, 122, 0.562);
+    border-bottom: solid 2px rgba(7, 90, 122, 0.562);
     padding: 20px;
 
 }
