@@ -8,6 +8,7 @@ body {
 header {
     border-bottom: solid 2px rgba(7, 90, 122, 0.562);
     padding: 20px;
+    font-size: 32px;
 
 }
 p {
